@@ -1,6 +1,13 @@
 # Deep Into CNN
 
-Contains material relevant to "Deep Into CNN" Project.
+This Repo Contains the work done by me in the self project Deep into CNN
+
+## Work done
+
+- First 2 Weeks Learned the basics of Regression , ML, Gradient Descent and completed few exercises on common dataset. 
+- in the weeks 3 and 4 , Learned about Neural networks and pytorch framework, made some simple Neural network to classify data. 
+- In the week 5 and 6 I implemented Alexnet Architecture . 
+
 
 ## Resources
 
