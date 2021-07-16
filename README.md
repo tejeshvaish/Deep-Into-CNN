@@ -41,6 +41,8 @@ Using pytorch , and used binary cross entropy as loss function and SGD as optimi
 * imported the CIFAR-10 dataset from the pytorch utilities. 
 *  Then loaded it using transform library , augmented it . , splitted it into traning and testing parts. 
 *  Implemented the Main architecture of Alexnet 
+![image](https://user-images.githubusercontent.com/55567070/125921738-69ddc2c8-56f7-439f-9e3a-401da7acec2f.png)
+
   ![image](https://user-images.githubusercontent.com/55567070/125919870-b738baf1-4cde-4695-a658-9ac3ba1b60e0.png)
 * Then wrote the Dropout and FC layers at the last. Dropout layers helps in reducing the complexity of the features. 
 ![image](https://user-images.githubusercontent.com/55567070/125919957-7af361d5-67dc-4535-997b-a0a4f40645c8.png)
