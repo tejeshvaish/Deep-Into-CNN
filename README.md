@@ -10,12 +10,12 @@ This Repo Contains the work done by me in the self project Deep into CNN
 
 - in the weeks 3 and 4 , Learned about Neural networks and pytorch framework, made some simple Neural network to classify data. 
 
-## Implemented a simple CNN architecture using pytorch  containing 2 Conv layer and 2 pooling layers + one fully connected layer to classify cifar dataset  achieved an accuracy of 69% on it.
+### Implemented a simple CNN architecture using pytorch  containing 2 Conv layer and 2 pooling layers + one fully connected layer to classify cifar dataset  achieved an accuracy of 69% on it.
 
 ![image](https://user-images.githubusercontent.com/55567070/125914902-37473baa-da02-4539-ab2d-f0866cc24bf4.png)
 
 
-## Then went on to Vislualize a CNN architecture , that what happens to input layer after maxpooling , convulutional , basically how do CNN are doing the magic
+### Then went on to Vislualize a CNN architecture , that what happens to input layer after maxpooling , convulutional , basically how do CNN are doing the magic
 
 * Filter Visualization:
 ![image](https://user-images.githubusercontent.com/55567070/125914181-5ef29d49-64a8-4bd6-8102-fac790146867.png)
